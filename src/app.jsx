@@ -3,7 +3,7 @@ import HelloWorld from "./component/helloword";
 
 const App = () => {
   return (
-    <div class="app block" style={{ fontSize:10 }}>
+    <div class="app block" style={{ fontSize: "10px" }}>
       <HelloWorld /> 
     </div>
   )
